@@ -2,7 +2,13 @@
   "name": "@world/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "engines": {
+    "node": "18.18.2",
+    "npm": "9.8.1"
+  },
+  "scripts": {
+    "start": "echo start"
+  },
   "dependencies": {
     "@angular/animations": "16.2.11",
     "@angular/common": "16.2.11",
